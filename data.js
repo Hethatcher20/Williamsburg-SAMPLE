@@ -86,7 +86,7 @@ var APP_DATA = {
           "yaw": -2.5826437008141383,
           "pitch": 0.07301416490345503,
           "title": "Williamsburg Community JSHS",
-          "text": "Google Streetview is unavailable for the high school so here is the intersection of&nbsp;"
+          "text": "Google Streetview is unavailable for the high school so here is the intersection;"
         }
       ]
     }
