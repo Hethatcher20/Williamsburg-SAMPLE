@@ -1,2 +1,80 @@
 How to update/add new points in the tours 
 -----------------------------------------
+
++ Add the new panorama to the "tiles" folder
+
++ index.html:
+  
+    Under <div id="sceneList"> 
+    For each pano scene, add:
+  
+          <a href="javascript:void(0)" class="scene" data-id="xyz*">
+              <li class="text">TITLE OF LOCATION**</li>
+          </a>
+ 
+ 
++ data.js:
+
+    within "scenes": [ 
+    For each pano scene, add: 
+    {
+      "id": "xyz*",
+      "name": "TITLE OF LOCATION**",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      
+      <!-- do not change the above portion! -->
+      
+      "faceSize": 1664,
+      "initialViewParameters": {
+        "yaw": 1.6468201311223662,
+        "pitch": 0.13095573503179203,
+        "fov": 1.0844416498847045
+      },
+      <!-- can add multiples of these! -->
+      "linkHotspots": [
+        {
+          "yaw": 3.0153358430356816,
+          "pitch": 0.0876069140845317,
+          "rotation": 0.7853981633974483,
+          "target": "TITLE OF THE PANO THAT THE ARROW LEADS TO"
+        }
+      ],
+      
+       <!-- can add multiples of these! -->
+      "infoHotspots": [
+        {
+          "yaw": 1.8907091758828738,
+          "pitch": 0.03136045072422533,
+          "title": "TITLE OF LOCATION**",
+          "text": "THIS IS WHERE THE INFO GOES"
+        }
+      ]
+    },
+    
+    
+  !!!!!DO NOT TOUCH ANY OTHER FILES!!!!!
+   * the id in index.html and data.js should match
+  ** the name/title in index.html and data.js should match
+  Helpful glossary:
+    yaw - rotation around the vertical axis
+    pitch - rotation around the side-to-side axis 
+    fov - field of view. the first point seen as the pano is presented 
+      
