@@ -1,6 +1,10 @@
 How to update/add new points in the tours 
 -----------------------------------------
 
+To download a panorama from google maps/earth/whatever:
+    Street View Download 360 - https://svd360.istreetview.com/
+
+
 + Add the new panorama to the "tiles" folder
 
 + index.html:
@@ -72,7 +76,11 @@ How to update/add new points in the tours
     
   !!!!!DO NOT TOUCH ANY OTHER FILES!!!!!
    * the id in index.html and data.js should match
-  ** the name/title in index.html and data.js should match
+  ** the name/title in index.html and data.js should match .Should also be the same as the subfolder title in "tiles"
+  
+ !! Also keep in minds that yaw, pitch, fov etc will (or should) change for each individual panorama.
+  
+  
   Helpful glossary:
     yaw - rotation around the vertical axis
     pitch - rotation around the side-to-side axis 
