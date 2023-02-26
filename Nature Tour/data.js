@@ -1,7 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-sample-nature-pano1",
+      "id": "sample-nature-pano1",
       "name": "Sample-Nature-pano1",
       "levels": [
         {
@@ -46,7 +46,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-sample-nature-pano2",
+      "id": "sample-nature-pano2",
       "name": "Sample-Nature-pano2",
       "levels": [
         {
@@ -97,7 +97,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-sample-nature-pano3",
+      "id": "sample-nature-pano3",
       "name": "Sample-Nature-pano3",
       "levels": [
         {
@@ -128,7 +128,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "3-sample-nature-pano4",
+      "id": "sample-nature-pano4",
       "name": "Sample-Nature-pano4",
       "levels": [
         {
@@ -179,7 +179,7 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "4-sample-nature-pano5",
+      "id": "sample-nature-pano5",
       "name": "Sample-Nature-pano5",
       "levels": [
         {
@@ -224,7 +224,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Sample Nature Tour",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
