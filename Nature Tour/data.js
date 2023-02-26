@@ -124,7 +124,7 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-       "linkHotspots": [
+           "linkHotspots": [
         {
           "yaw": 1.110359861622996,
           "pitch": 0.059593029024190614,
@@ -144,8 +144,9 @@ var APP_DATA = {
           "pitch": -0.09480293820328711,
           "title": "LOCATION #3",
           "text": "INFO ABOUT LOCATION #3, yay"
-        },
+        }
       ]
+    },
     {
       "id": "3-sample-nature-pano4",
       "name": "Sample-Nature-pano4",
