@@ -144,9 +144,8 @@ var APP_DATA = {
           "pitch": -0.09480293820328711,
           "title": "LOCATION #3",
           "text": "INFO ABOUT LOCATION #3, yay"
-        }
+        },
       ]
-    },
     {
       "id": "3-sample-nature-pano4",
       "name": "Sample-Nature-pano4",
