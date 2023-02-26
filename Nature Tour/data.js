@@ -124,8 +124,28 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": []
+       "linkHotspots": [
+        {
+          "yaw": 1.110359861622996,
+          "pitch": 0.059593029024190614,
+          "rotation": 7.0685834705770345,
+          "target": "1-sample-nature-pano2"
+        },
+        {
+          "yaw": -1.0216986981929566,
+          "pitch": 0.46429650475838535,
+          "rotation": 4.71238898038469,
+          "target": "3-sample-nature-pano4"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": 0.185571669294049,
+          "pitch": -0.09480293820328711,
+          "title": "LOCATION #3",
+          "text": "INFO ABOUT LOCATION #3, yay"
+        }
+      ]
     },
     {
       "id": "3-sample-nature-pano4",
