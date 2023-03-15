@@ -135,13 +135,13 @@ var APP_DATA = {
           "yaw": 2.917151903927402,
           "pitch": 0.04134966255778849,
           "rotation": 0,
-          "target": "0-1-w-second-street"
+          "target": "0-1-w-second-street" //Replace with #4
         },
         {
           "yaw": -0.6668272738256569,
           "pitch": 0.09078908659330409,
           "rotation": 13.351768777756625,
-          "target": "2-3-corner-of-high-street-and-sage-hill-drive"
+          "target": "2-3-corner-of-high-street-and-sage-hill-drive" //Replace with #5
         }
       ],
       "infoHotspots": [
@@ -167,7 +167,7 @@ var APP_DATA = {
           "yaw": 0.7455540433138736,
           "pitch": 0.1326374325261206,
           "title": "The Big Spring",
-          "text": "Embed an image"
+          "text": "Embed an image" //Still not sure how to do this 
         }
       ]
     }
