@@ -91,7 +91,7 @@ var APP_DATA = {
         {
           "yaw": -0.5310883551837406,
           "pitch": -0.1715372231899437,
-          "title": "<div>The Williamsburg Hotel&nbsp;</div>",
+          "title": "<div>The Williamsburg Hotel;</div>",
           "text": "<div>Located on High Street is a large yellow brick building know as the Williamsburg Hotel. It was built by Charles Schwab as a place for investors to stay when they came to town. He was born in on the outskirts of Williamsburg and made his fortune in the steel industry. Because of his love for this town, he persuaded individuals to invest a total of $1,000,000 towards building a paper mill for Williamsburg once the iron ore industry ended.&nbsp;</div>"
         }
       ]
@@ -135,13 +135,13 @@ var APP_DATA = {
           "yaw": 2.917151903927402,
           "pitch": 0.04134966255778849,
           "rotation": 0,
-          "target": "0-1-w-second-street"
+          "target": "0-1-w-second-street" /*Will be replaced with #4*/
         },
         {
           "yaw": -0.6668272738256569,
           "pitch": 0.09078908659330409,
           "rotation": 13.351768777756625,
-          "target": "2-3-corner-of-high-street-and-sage-hill-drive"
+          "target": "2-3-corner-of-high-street-and-sage-hill-drive" /*Will be replaced with #5 */
         }
       ],
       "infoHotspots": [
@@ -161,13 +161,13 @@ var APP_DATA = {
           "yaw": 2.503198479459112,
           "pitch": -0.08629754567382264,
           "title": "Ironmaster's Home",
-          "text": "&nbsp;This large white house across the street was the home of iron master John Neff during the time when the area around Williamsburg was popular for its many iron furnaces. The iron fencing surrounding this home is original, and was locally made in the foundry"
+          "text": "This large white house across the street was the home of iron master John Neff during the time when the area around Williamsburg was popular for its many iron furnaces. The iron fencing surrounding this home is original, and was locally made in the foundry"
         },
         {
           "yaw": 0.7455540433138736,
           "pitch": 0.1326374325261206,
           "title": "The Big Spring",
-          "text": "Embed an image"
+          "text": "<img scr="/img/The Big Spring.jpg"
         }
       ]
     }
