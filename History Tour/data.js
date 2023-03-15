@@ -167,7 +167,7 @@ var APP_DATA = {
           "yaw": 0.7455540433138736,
           "pitch": 0.1326374325261206,
           "title": "The Big Spring",
-          "img": /img/close.png
+          "img": "/img/close.png"
         }
       ]
     }
