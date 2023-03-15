@@ -258,6 +258,7 @@
     
     var spring = document.createElement('img');
     spring.src = 'img/bigspring.png';
+    icon.classList.add('link-hotspot-img;)
  
 
     // Set rotation transform.
