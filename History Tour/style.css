@@ -450,7 +450,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .info-hotspot .info-hotspot-header {
-  width: 40px;
+  width: 60px;
   height: 40px;
   border-radius: 20px;
   background-color: rgb(103,115,131);
@@ -490,7 +490,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 }
 
 .info-hotspot .info-hotspot-icon-wrapper {
-  width: 40px;
+  width: 60px;
   height: 40px;
 }
 
