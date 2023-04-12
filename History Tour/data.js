@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": 0.0022765164156428597,
           "pitch": -0.2717861058881006,
           "title": "Dean Theater",
-          "text": "<div>&nbsp;Towards the middle of W Second Street, you will see a building with a half circle stained glass window. Built in 1915, this was the location of the Dean Theater. The window is original, and there used to be a ticket booth in front of the building. Silent movies were the first to be shown there using a player piano for background music. A fire in 1936 destroyed much of the inside of the building but repairs were made and the theater continued its operation. With the coming of television, it closed permanently in the 1950s.</div>"
+          "text": "<div>&nbsp;Towards the middle of W Second Street, you will see a building with a half circle stained glass window. Built in 1915, this was the location of the Dean Theater. The window is original, and there used to be a ticket booth in front of the building. Silent movies were the first to be shown there using a player piano for background music. A fire in 1936 destroyed much of the inside of the building but repairs were made and the theater continued its operation. With the coming of television, it closed permanently in the 1950s.</div><a href='https://goo.gl/maps/L96ADpMrdQuYuZMS7' target='_blank'><img src='./img/maps.png' alt='Google Maps Image' style='position:relative;left:50%;transform:translateX(-50%);margin-top:10px;height:100px;width:100px;'></a>"
         }
       ]
     },
@@ -154,8 +154,8 @@ var APP_DATA = {
         {
           "yaw": 0.7679588949413869,
           "pitch": 0.12892966020439545,
-          "title": "Placeholder",
-          "text": "embed image here?"
+          "title": "Image of The Big Spring",
+          "text": "<img src='./img/TheBigSpring.jpg' alt='Beautiful picture of the big springs close up.' style='width:100%;height:180px;'>"
         },
         {
           "yaw": 2.5529890238131108,
@@ -280,8 +280,8 @@ var APP_DATA = {
         {
           "yaw": 0.990808407693109,
           "pitch": 0.20919388839120145,
-          "title": "Placeholder",
-          "text": "embed image :)"
+          "title": "Wilmer Stultz Tombstone Head",
+          "text": "<img src='./img/WilmerStultz.jpg' alt='1900 to 1929. In Memory of Wilmer L. Stultz. Major, National Guard Air Corps, Captain, U.S. Army Air Corps Reserve, 634,Aero Squandron 1917-1919, U. S. Naval Air Serice 1919 - 1922, Pilot 'FriendShip' Trans-Atlantic Flight Trepassey, N. F. To Burry Port, Wales, June 17th & 18th, 1928.' style='width:100%;height:auto;'>"
         }
       ]
     },
