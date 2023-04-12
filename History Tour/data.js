@@ -92,7 +92,7 @@ var APP_DATA = {
           "yaw": -0.4615069491705821,
           "pitch": -0.04892288103407694,
           "title": "The Williamsburg Hotel",
-          "text": "<div>Located on High Street is a large yellow brick building know as the Williamsburg Hotel. It was built by Charles Schwab as a place for investors to stay when they came to town. He was born in on the outskirts of Williamsburg and made his fortune in the steel industry. Because of his love for this town, he persuaded individuals to invest a total of $1,000,000 towards building a paper mill for Williamsburg once the iron ore industry ended.&nbsp;</div>"
+          "text": "<div>Located on High Street is a large yellow brick building known as the Williamsburg Hotel. It was built by Charles Schwab as a place for investors to stay when they came to town. He was born in on the outskirts of Williamsburg and made his fortune in the steel industry. Because of his love for this town, he persuaded individuals to invest a total of $1,000,000 towards building a paper mill for Williamsburg once the iron ore industry ended.&nbsp;</div>"
         }
       ]
     },
@@ -275,7 +275,7 @@ var APP_DATA = {
           "yaw": 1.6341860839486912,
           "pitch": -0.0028309037915459356,
           "title": "Wilmer Stultz",
-          "text": "<div>Located towards the top of Williamsburg’s Presbyterian Cemetery, underneath the group of large trees you will find several stone with the name “Stultz”. Among these lies the final resting place of Williamsburg native Mr. Wilmer Stultz. His stone details information about his flight across the Atlantic Ocean carrying a very special passenger: Amelia Earhart. Along with his friend Lou Gordon, the three flew in June 1928, and made Earhart the first woman to fly across the Atlantic nonstop</div>"
+          "text": "<div>Located towards the top of Williamsburg’s Presbyterian Cemetery, underneath the group of large trees you will find several stones with the name “Stultz”. Among these lies the final resting place of Williamsburg native Mr. Wilmer Stultz. His stone details information about his flight across the Atlantic Ocean carrying a very special passenger: Amelia Earhart. Along with his friend Lou Gordon, the three flew in June 1928, and made Earhart the first woman to fly across the Atlantic nonstop</div>"
         },
         {
           "yaw": 0.990808407693109,
@@ -440,7 +440,7 @@ var APP_DATA = {
           "yaw": -0.23607666741072109,
           "pitch": 0.044550183902945406,
           "title": "The Lower Trail",
-          "text": "<div>The trail that people use was actually the path the mules walked on while pulling canal boats on the Frankstown Branch of the Juniata River during PA’s Canal Era. The canal boats passed through Williamsburg from Eastern PA on their way to Hollidaysburg, and to the Allegheny Portage where they would cross the mountains and continue down to Johnstown. When the canal system was abandoned, the mule path served as the base for the tracks of the Pennsylvania RR.&nbsp;</div>"
+          "text": "<div>The trail that people use was actually the path the mules walked on while pulling canal boats on the Frankstown Branch of the Juniata River during PA’s Canal Era. The canal boats passed through Williamsburg from Eastern PA on their way to Hollidaysburg, and to the Allegheny Portage Passage where they would cross the mountains and continue down to Johnstown. When the canal system was abandoned, the mule path served as the base for the tracks of the Pennsylvania RR.&nbsp;</div>"
         },
         {
           "yaw": 0.6192644192496477,
