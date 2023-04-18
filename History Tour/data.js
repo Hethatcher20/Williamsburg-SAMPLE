@@ -446,7 +446,7 @@ var APP_DATA = {
           "yaw": 0.6192644192496477,
           "pitch": -0.0327453139624172,
           "title": "Former Railroad Station",
-          "text": "The space that Martin’s currently occupies was once the home of a railroad station.&nbsp;"
+          "text": "The space that Martin General currently occupies was once the home of a railroad station.&nbsp;"
         }
       ]
     }
