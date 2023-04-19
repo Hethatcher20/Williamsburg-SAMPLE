@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": 0.0022765164156428597,
           "pitch": -0.2717861058881006,
           "title": "Dean Theater",
-          "text": "<div>&nbsp;Towards the middle of W Second Street, you will see a building with a half circle stained glass window. Built in 1915, this was the location of the Dean Theater. The window is original, and there used to be a ticket booth in front of the building. Silent movies were the first to be shown there using a player piano for background music. A fire in 1936 destroyed much of the inside of the building but repairs were made and the theater continued its operation. With the coming of television, it closed permanently in the 1950s.</div><a href='https://goo.gl/maps/L96ADpMrdQuYuZMS7' target='_blank'><img src='./img/maps.png' alt='Google Maps Image' style='position:relative;left:50%;transform:translateX(-50%);margin-top:10px;height:100px;width:100px;'></a>"
+          "text": "<div>&nbsp;Towards the middle of W Second Street, you will see a building with a half circle stained glass window. Built in 1915, this was the location of the Dean Theater. The window is original, and there used to be a ticket booth in front of the building. Silent movies were the first to be shown there using a player piano for background music. A fire in 1936 destroyed much of the inside of the building but repairs were made and the theater continued its operation. With the coming of television, it closed permanently in the 1950s.</div>"
         }
       ]
     },
