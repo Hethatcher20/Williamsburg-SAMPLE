@@ -1,3 +1,7 @@
+Marzipano: https://www.marzipano.net/tool/
+Marzipano Docs: https://www.marzipano.net/docs.html
+
+
 How to update/add new points in the tours 
 -----------------------------------------
 
